@@ -1,4 +1,4 @@
-fx_version 'bodacious'
+fx_version 'cerulean'
 game 'gta5'
 description 'ESX Sell to Players - Allows players to sell to other players'
 author 'Abel Gaming'
